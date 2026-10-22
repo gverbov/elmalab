@@ -1,3 +1,7 @@
+# File: Simulazione
+# Laboratorio 22/10/2026
+# Docente: Matteo Franchini
+# Studente: Glib Verzhbovskyi
 
 import numpy as np
 import matplotlib.pyplot as pl
